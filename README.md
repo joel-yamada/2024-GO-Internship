@@ -12,3 +12,4 @@ This is a repository off my work/presentation as a Purchasing Intern for the GO 
 Final Presentation Link:
 https://youtu.be/58YUkh0Qukc?si=oxesqlEUxqQqUgGz
 
+Due to the confidentiality of the projects I worked on, specific files are hidden. Please reach out if you would like to know more!
