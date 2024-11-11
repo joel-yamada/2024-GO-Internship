@@ -1,5 +1,5 @@
 # 24-GO-Internship
-This is a repository off my work/presentation as a Purchasing Intern for the GO Brands team at Grocery Outlet in the summer of 2024.
+This is a repository of my work/presentation as a Purchasing Intern for the GO Brands team at Grocery Outlet in the summer of 2024.
 
 ## What I did over the course of the internship:
 - Met with current private label coffee manufacturer to analyze coffee market and private label penetration, pre and post-conversion from control label
